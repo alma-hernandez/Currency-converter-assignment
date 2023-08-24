@@ -1,0 +1,1 @@
+npx http-server --port 8000 -c-1
